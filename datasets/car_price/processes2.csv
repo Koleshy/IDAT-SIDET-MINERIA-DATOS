@@ -1,4 +1,4 @@
-id,name,year,selling_price,km_driven,fuel,seller_type,transmission,owner,seats,max_power (in bph),Mileage Unit,Mileage,Engine (CC)
+,name,year,selling_price,km_driven,fuel,seller_type,transmission,owner,seats,max_power (in bph),Mileage Unit,Mileage,Engine (CC)
 0,Maruti,2014,450000,145500,Diesel,Individual,Manual,First Owner,5,74.0,kmpl,23.4,1248
 2,Hyundai,2010,225000,127000,Diesel,Individual,Manual,First Owner,5,90.0,kmpl,23.0,1396
 4,Hyundai,2017,440000,45000,Petrol,Individual,Manual,First Owner,5,81.86,kmpl,20.14,1197
